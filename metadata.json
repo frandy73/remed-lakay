@@ -1,0 +1,8 @@
+{
+  "name": "Remèd Lakay",
+  "description": "Baz done remèd tradisyonèl ak plant medisinal pou Ayiti. Pwoteje ak pataje konesans tradisyonèl nou an.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
